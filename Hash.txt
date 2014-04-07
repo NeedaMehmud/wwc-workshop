@@ -1,0 +1,4 @@
+my_info= {name: "Needa", age:28}
+	puts "Name:" + my_info
+
+#my_info is considered a hash
