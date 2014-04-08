@@ -1,4 +1,4 @@
- require 'date'
+require 'date'
 class Movie
 	attr_accessor :title, :rating, :release_date, :duration
 	attr_accessor :total_quantity, :number_checked_out
